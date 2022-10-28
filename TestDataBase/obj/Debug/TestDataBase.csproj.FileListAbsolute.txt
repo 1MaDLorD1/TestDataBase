@@ -1,0 +1,13 @@
+E:\GitHub\TestDataBase\TestDataBase\bin\Debug\TestDataBase.exe.config
+E:\GitHub\TestDataBase\TestDataBase\bin\Debug\TestDataBase.exe
+E:\GitHub\TestDataBase\TestDataBase\bin\Debug\TestDataBase.pdb
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.csproj.AssemblyReference.cache
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.Properties.Resources.resources
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.csproj.GenerateResource.cache
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.csproj.CoreCompileInputs.cache
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.exe
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.pdb
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.sign_up.resources
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.log_in.resources
+E:\GitHub\TestDataBase\TestDataBase\obj\Debug\TestDataBase.Form1.resources
